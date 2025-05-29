@@ -15,17 +15,17 @@ Each dashboard image shows how these groups differ in terms of financial health,
 
 ## 🖼️ Dashboards Included
 
-### **1. Top 25% Profitability Group (`top_25.png`)**
+### **1. Top 25% Profitability Group (`Top_25.png`)**
 Shows high-performing companies with strong financials.
 - Highlights efficient asset use, better cash flow, and strategic R&D spending.
 - Compares bankrupt vs. non-bankrupt companies using radar charts, bar graphs, and scatter plots.
 
-### **2. Middle 50% Profitability Group (`middle_50.png`)**
+### **2. Middle 50% Profitability Group (`Middle_50.png`)**
 Represents average-performing companies.
 - Shows moderate levels of efficiency, cash flow, and debt.
 - Helps identify trends that fall between high and low performers.
 
-### **3. Bottom 25% Profitability Group (`bottom_25.png`)**
+### **3. Bottom 25% Profitability Group (`Bottom_25.png`)**
 Focuses on underperforming companies.
 - Reveals inefficiencies, poor cash flow, and higher risk of financial distress.
 - Useful for identifying early warning signs of bankruptcy.
@@ -73,9 +73,9 @@ Focuses on underperforming companies.
 
 ## 📁 Files Included
 
-- `top_25.png` – Dashboard for the top 25% most profitable companies  
-- `middle_50.png` – Dashboard for the middle 50% companies  
-- `bottom_25.png` – Dashboard for the bottom 25% least profitable companies  
+-  [Top 25% Dashboard Image](images/Top_25.png) – Dashboard for the top 25% most profitable companies  
+- [Middle 50% Dashboard Image](images/Middle_50.png) – Dashboard for the middle 50% companies  
+- [Bottom 25% Dashboard Image](images/Bottom_25.png) – Dashboard for the bottom 25% least profitable companies  
 
 ---
 
@@ -87,6 +87,7 @@ Focuses on underperforming companies.
 - Apply insights to improve **financial planning**, **risk assessment**, and **investment decisions**.
 
 ---
+
 
 
 
